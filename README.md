@@ -24,8 +24,8 @@
 
 ### Programming Skills  
 <div align="center">  
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" style="margin-bottom: 5px;" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" height="50" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="100" style="margin-bottom: 5px;" />
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" height="100" />  
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" height="100" />  
 
 </div>
