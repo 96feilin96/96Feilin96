@@ -51,12 +51,9 @@
 
 ### Software Skills
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="80" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio"  height="80" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="80" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Databricks_Logo.png" alt="Databricks" height="80" />
-<img src="https://cdn.worldvectorlogo.com/logos/snowflake-icon.svg" alt="Snowflake" height="80" />
-
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" />
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio"  height="70" />
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/snowflake-icon.svg" alt="Snowflake"  height="70" />
 
 </div>
 
