@@ -15,7 +15,7 @@
 
 - 💼 I'm looking for an Entry-Level Business Analyst position.
 
-- 💻 All of my projects are available at [https://github.com/96feilin96/96Feilin96](https://github.com/96feilin96/96Feilin96)
+- 💻 My projects are available at [https://github.com/96feilin96/96Feilin96](https://github.com/96feilin96/96Feilin96)
 - ✉️ How to reach me [feilin_96@outlook.com](feilin_96@outlook.com)
 
 ### <div align="center">Proficient In</div><br />
