@@ -52,8 +52,9 @@
 ### Software Skills
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio"  height="70" />
-<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/snowflake-icon.svg" alt="Snowflake"  height="70" />
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" height="50" />
+
+
 
 </div>
 
