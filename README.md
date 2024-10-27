@@ -40,12 +40,11 @@
 <div align="center">  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="80" />  
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" height="80" />  
-<img style="margin: 10px" src="https://images.opencollective.com/posthog/e96fe8a/logo/256.png" alt="PostHog" height="80" />  
+<img style="margin: 10px" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/brand/PostHog-Icon-Dark.svg" alt="PostHog" height="80" />  
 
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 
