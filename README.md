@@ -5,7 +5,7 @@
 </div>  
   
 
-# <div align="center">a Passionate Business Analyst</div>  
+# <div align="center">A Passionate Business Analyst Committed to Delivering Insights</div>  
 
 ### <div align="center">My Brief Introduction</div><br />
 
