@@ -9,7 +9,7 @@
 
 ### <div align="center">My Brief Introduction</div><br />
 
-- 🎓 I'm a new graduated student from UIUC.
+- 🎓 I'm a graduate student from UIUC.
 
 - 🌱 I’m currently working for NCSA, doing User Behavior Analysis of the AI Product – UIUC.chat
 
